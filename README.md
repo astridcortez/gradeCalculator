@@ -1,1 +1,3 @@
 # gradeCalculator
+
+The program was created to compute the individual grades for the data structures class. It asks the user/ student to input all the grades they received for all the assignments and then returns the total grade they received per subject as well as the total grade they received in the class, the numerical value as well as the letter grade by finding the total grade per subject, inputing all the subject grades into an array, figures out what letter grade the studen twill receive based on their scores and then prints the information that the array has which represents the grade for the class.
