@@ -1,0 +1,17 @@
+This is a grade calculator for the class: Data Structures.
+
+Grading is as follows: 
+Labs: 16 Points
+Midetems: 20 Points
+Practice Problems: 44 Points
+Final: 20 Points
+
+Final Exam: 18
+Total Grades:
+Total Lab Grade: F
+ Total Midterm Grade: F
+ Total Practice Problem Grade: F
+ Final Exam Grade: F
+ Final Grade: A
+Final Exam: 18
+Letter Grade: A
